@@ -5,4 +5,4 @@ The MNIST database (Modified National Institute of Standards and Technology data
 Furthermore, the black and white images from NIST were normalized to fit into a 28x28 pixel bounding box and anti-aliased, which introduced grayscale levels.
 
 
-![alt text](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
+![Sample images from MNIST test dataset.](https://en.wikipedia.org/wiki/MNIST_database#/media/File:MnistExamples.png)
