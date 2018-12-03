@@ -9,3 +9,6 @@ Furthermore, the black and white images from NIST were normalized to fit into a 
 
 ![Sample images from MNIST test dataset.](https://corochann.com/wp-content/uploads/2017/02/mnist_plot.png)
 
+## Sample images from MNIST test dataset->
+Each image is 28 pixels by 28 pixels. We can interpret this as a big array of numbers:
+![Sample images from MNIST test dataset.](https://tensorflow.rstudio.com/tensorflow/articles/images/MNIST-Matrix.png)
